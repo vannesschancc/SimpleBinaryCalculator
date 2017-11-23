@@ -4,4 +4,4 @@ A simple binary calculator that perform addition, subtraction, multiplication an
 Framework: Swing, Java
 
 #Demo can be shown as below. 
-[Demo](BinaryCalculator.png)
+[Demo](BinaryCalculator.PNG)
