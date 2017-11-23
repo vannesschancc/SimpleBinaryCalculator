@@ -3,4 +3,4 @@ A simple binary calculator that perform addition, subtraction, multiplication an
 \
 
 #Demo can be shown as below. 
-![Demo](SimpleBinary Calculator.png)
+![Demo](SimpleBinaryCalculator.png)
