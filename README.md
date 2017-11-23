@@ -3,10 +3,13 @@ A simple binary calculator that perform addition, subtraction, multiplication an
 
 Framework: Swing, Java
 
-The interface can be shown as below. 
-ScreenShot /n
+The interfacecan be shown as below. 
+ScreenShot
+
 ![Demo](BinaryCalculator.PNG?raw=true)
 
 
-Video Demo /m
+Video Demo
+
+
 ![Demo](BinaryCalculatorDemo.gif?raw=true)
